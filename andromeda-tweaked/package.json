@@ -1,0 +1,21 @@
+{
+  "name": "andromeda-tweaked",
+  "displayName": "Andromeda-tweaked",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Andromeda-tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Andromeda-tweaked-color-theme.json"
+      }
+    ]
+  }
+}
