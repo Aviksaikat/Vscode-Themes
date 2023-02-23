@@ -2,6 +2,8 @@
   "name": "andromeda-tweaked",
   "displayName": "Andromeda-tweaked",
   "description": "",
+  "publisher": "aviksaikat",
+  "repository": "https://github.com/Aviksaikat/Vscode-Theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
@@ -9,6 +11,11 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vs code andromeda tweaked"
+  ],
+  "icon": "logo.png",
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
