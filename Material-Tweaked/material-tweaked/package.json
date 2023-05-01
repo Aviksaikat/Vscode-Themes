@@ -1,0 +1,31 @@
+{
+  "name": "material-tweaked",
+  "displayName": "Material-tweaked",
+  "description": "My custom tweaked version of our all time favorite Material theme",
+  "publisher": "aviksaikat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aviksaikat/Vscode-Themes"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vs code material tweaked theme"
+  ],
+  "icon": "logo.jpg",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material-tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material-tweaked-color-theme.json"
+      }
+    ]
+  }
+}
